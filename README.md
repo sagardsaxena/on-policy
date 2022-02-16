@@ -1,6 +1,6 @@
 # MAPPO
 
-Chao Yu*, Akash Velu*, Eugene Vinitsky, Yu Wang, Alexandre Bayen, and Yi Wu. 
+Chao Yu*, Akash Velu*, Eugene Vinitsky, Jiaxuan Gao, Yu Wang, Alexandre Bayen, and Yi Wu. 
 
 Website: https://sites.google.com/view/mappo
 
