@@ -94,7 +94,7 @@ There are 3 Cooperative scenarios in MPE:
 
 ### 2.4 GRF
 
-we would suggest to check out [football](https://github.com/google-research/football/blob/master/README.md) to install football environment.
+Please see the [football](https://github.com/google-research/football/blob/master/README.md) repository to install the football environment.
 
 ## 3.Train
 Here we use train_mpe.sh as an example:
